@@ -1,0 +1,132 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+/lib/uploads/1730430839688-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730692159112-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730692227524-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730692236055-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730693493846-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730693562473-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730693701704-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730694194064-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730694343092-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730694346012-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730704047597-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730704418932-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730774387793-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730774388625-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730789142582-119_KH-UBND_612507.pdf
+/lib/uploads/1730789207798-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730789253972-119_KH-UBND_612507.pdf
+/lib/uploads/1730789287450-119_KH-UBND_612507.pdf
+/lib/uploads/1730789346727-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730789379775-119_KH-UBND_612507.pdf
+/lib/uploads/1730789456174-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730790699143-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730793276147-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730793291529-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794278673-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794288039-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794860820-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794891595-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794919278-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794925718-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794937442-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794939830-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794949023-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950137-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950311-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950471-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950632-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950791-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730794950967-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730795821018-01_2024_TT-BXD_609251.pdf
+/lib/uploads/1730796128762-119_KH-UBND_612507.pdf
+/lib/uploads/1730796446691-119_KH-UBND_612507.pdf
+/lib/uploads/1730796522200-119_KH-UBND_612507.pdf
+/lib/uploads/1730796721813-119_KH-UBND_612507.pdf
+/lib/uploads/1730797405006-119_KH-UBND_612507.pdf
+/lib/uploads/1730797465729-119_KH-UBND_612507.pdf
+/lib/uploads/1730797858542-119_KH-UBND_612507.pdf
+/lib/uploads/1730798340231-119_KH-UBND_612507.pdf
+/lib/uploads/1730798424756-119_KH-UBND_612507.pdf
+/lib/uploads/1730798533230-119_KH-UBND_612507.pdf
+/lib/uploads/1730802829103-102_2024_ND-CP_603982.pdf
+/lib/uploads/1730804515082-CV-AI-Engineer-Fresher-Vu-Thi-Que-Anh.pdf
+/lib/uploads/1730804565444-CV-AI-Engineer-Fresher-Vu-Thi-Que-Anh.pdf
+/lib/uploads/1730804626841-aDUmiL21TUi1Joi9tU1Igw_e58ee4be99f44b2dabe58c78bde4e25a_Course-3-Scenario-2_Second-Interview-Email.pdf
+/lib/uploads/1730804817412-06_2024_TT-BKHDT_608043 (1) (1).pdf
+/lib/uploads/1730858853815-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730859186554-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730859340084-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730859468384-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730859470858-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730859884074-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730859919316-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730861853286-102_2024_ND-CP_603982.pdf
+/lib/uploads/1730862359493-CV-AI-Engineer-Fresher-Vu-Thi-Que-Anh.pdf
+/lib/uploads/1730862655439-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730863269249-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730863494411-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730863497282-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730864027244-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730864041939-Máº«u 01. Tá» trÃ¬nh mang mÃ¡y tÃ­nh vÃ  trá»¥ sá» TCT.pdf
+/lib/uploads/1730864282401-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730865612203-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730888746380-demo3.pdf
+/lib/uploads/1730888959139-demo3.pdf
+/lib/uploads/1730889173727-demo2.pdf
+/lib/uploads/1730889401429-demo2.pdf
+/lib/uploads/1730889442265-demo3.pdf
+/lib/uploads/1730889587482-demo3.pdf
+/lib/uploads/1730890754492-demo3.pdf
+/lib/uploads/1730912231160-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730912432086-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730912748943-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730912896595-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730913147541-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730913462791-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730913484191-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730942348585-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730942658755-102_2024_ND-CP_603982 (1).pdf
+/lib/uploads/1730942951920-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730942966650-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730943185477-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730943469322-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730943900703-tungnt_Ban cam ket ATTT.pdf
+/lib/uploads/1730953095897-quangnm_Ban cam ket ATTT.pdf
+/lib/uploads/1730954156423-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
+/lib/uploads/1730954254542-2024_Quy trinh tham dinh va phe duyet du an dau tu_.pdf
